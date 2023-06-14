@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833078016628",
+    "project_id": "navrhtc",
+    "storage_bucket": "navrhtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833078016628:android:97c9c720d24be53493af21",
+        "android_client_info": {
+          "package_name": "cz.regulus.navrhtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833078016628-jbvtdct0ca0u624m3oj7shqapvbetqiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqlllZ6QJMYwZVSMFHBXec6Wt0jrN2lVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833078016628-jbvtdct0ca0u624m3oj7shqapvbetqiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
